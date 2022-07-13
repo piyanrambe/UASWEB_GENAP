@@ -10,7 +10,7 @@
 
 <body>
    <div class="container mt-4">
-      <h1>Loket Antrian Tiket Pesawat</h1>
+      <h1>Antrian Tiket Pesawat</h1>
       <div class="mt-3">
          <table class="table table-bordered" id="index">
             <thead>
@@ -33,8 +33,13 @@
             </tbody>
          </table>
       </div>
+      <footer>
+         <p>Alfiansyah Rambe - 312010338 - TI 20 B2</p>
+         <p>&copy; 2022 - Universitas Pelita Bangsa</p>
+      </footer>
    </div>
    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css">
 </body>
+
 
 </html>
