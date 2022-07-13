@@ -7,6 +7,7 @@ Kelas : TI 20 B2                      Semester    : 4
 ```
 ---
 
+### Link Youtube [**UAS Pemrograman WEB**](https://youtu.be/fwmjgFvee4s)
 ### Disini Saya akan menampilkan Hasil UAS Pemrograman Web saya yaitu tentang **Antrian Loket Pesawat** ( NIM akhiran Genap ).
 
 Saya beri 2 tipe Kelas kursi Pesawat, yaitu Kelas Ekonomi dan Kelas Bisnis.
@@ -40,5 +41,6 @@ Saya beri 2 tipe Kelas kursi Pesawat, yaitu Kelas Ekonomi dan Kelas Bisnis.
   
   Jika sudah selesai dipanggil, klik selesai untuk menghapus data.
   
-=========================================== S E L E S A I ===================================
-  
+---
+SELESAI
+
